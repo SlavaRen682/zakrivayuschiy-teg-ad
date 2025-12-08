@@ -1,1 +1,1 @@
-(https://github.com/SlavaRen682/zakrivayuschiy-teg-ad)
+https://github.com/SlavaRen682/zakrivayuschiy-teg-ad
