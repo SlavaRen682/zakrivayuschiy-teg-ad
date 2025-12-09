@@ -120,33 +120,7 @@
 }
 
 /* Фильтры для изображений в разных секциях */
-.section:nth-child(2) .section__image {
-	filter: grayscale(0.5);
-}
 
-.section:nth-child(3) .section__image {
-	filter: saturate(4.5);
-}
-
-.section:nth-child(4) .section__image {
-	filter: hue-rotate(50deg);
-}
-
-.section:nth-child(5) .section__image {
-	filter: invert(1) brightness(0.9);
-}
-
-.section:nth-child(6) .section__image {
-	filter: sepia(1);
-}
-
-.section:nth-child(7) .section__image {
-	filter: blur(5px);
-}
-
-.section:nth-child(8) .section__image {
-	filter: hue-rotate(90deg) opacity(0.7) blur(2px);
-}
 
 /* Стили текстового содержимого */
 .block__text {
